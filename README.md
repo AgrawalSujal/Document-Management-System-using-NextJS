@@ -15,27 +15,27 @@ Agrawal's DocManager is a lightweight and user-friendly document management web 
 
 ---
 
-## 📷 Screenshots
+## 📷 /screenshots
 
 ### ✅ Home Page - Documents List
 
-![Documents Page](screenshots/DocumentList.png)
+![Documents Page](/screenshots/DocumentList.png)
 
 ### ➕ Add New Document
 
-![Add Document Page](screenshots/AddDocument.png)
+![Add Document Page](/screenshots/AddDocument.png)
 
 ### 🔍 Search & Modal View
 
-![View Modal](screenshots/Search.png)
+![View Modal](/screenshots/Search.png)
 
 ### 🔍 Search & Modal View1
 
-![View Modal](screenshots/View.png)
+![View Modal](/screenshots/View.png)
 
 ### 🔍 Search & Modal View2
 
-![View Modal](screenshots/View2.png)
+![View Modal](/screenshots/View2.png)
 
 ---
 
